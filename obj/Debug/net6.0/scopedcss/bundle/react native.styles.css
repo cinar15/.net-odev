@@ -1,0 +1,49 @@
+/* _content/react native/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-bft5ygtvop] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-bft5ygtvop] {
+  color: #0077cc;
+}
+
+.btn-primary[b-bft5ygtvop] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-bft5ygtvop], .nav-pills .show > .nav-link[b-bft5ygtvop] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-bft5ygtvop] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-bft5ygtvop] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-bft5ygtvop] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-bft5ygtvop] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-bft5ygtvop] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}

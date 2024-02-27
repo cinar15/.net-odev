@@ -1,0 +1,78 @@
+D:\BİLİSİM\react native\bin\Debug\net6.0\appsettings.Development.json
+D:\BİLİSİM\react native\bin\Debug\net6.0\appsettings.json
+D:\BİLİSİM\react native\bin\Debug\net6.0\react native.staticwebassets.runtime.json
+D:\BİLİSİM\react native\bin\Debug\net6.0\react native.exe
+D:\BİLİSİM\react native\bin\Debug\net6.0\react native.deps.json
+D:\BİLİSİM\react native\bin\Debug\net6.0\react native.runtimeconfig.json
+D:\BİLİSİM\react native\bin\Debug\net6.0\react native.dll
+D:\BİLİSİM\react native\bin\Debug\net6.0\react native.pdb
+D:\BİLİSİM\react native\obj\Debug\net6.0\react native.csproj.AssemblyReference.cache
+D:\BİLİSİM\react native\obj\Debug\net6.0\react native.GeneratedMSBuildEditorConfig.editorconfig
+D:\BİLİSİM\react native\obj\Debug\net6.0\react native.AssemblyInfoInputs.cache
+D:\BİLİSİM\react native\obj\Debug\net6.0\react native.AssemblyInfo.cs
+D:\BİLİSİM\react native\obj\Debug\net6.0\react native.csproj.CoreCompileInputs.cache
+D:\BİLİSİM\react native\obj\Debug\net6.0\react native.MvcApplicationPartsAssemblyInfo.cache
+D:\BİLİSİM\react native\obj\Debug\net6.0\react native.RazorAssemblyInfo.cache
+D:\BİLİSİM\react native\obj\Debug\net6.0\react native.RazorAssemblyInfo.cs
+D:\BİLİSİM\react native\obj\Debug\net6.0\staticwebassets.build.json
+D:\BİLİSİM\react native\obj\Debug\net6.0\staticwebassets.development.json
+D:\BİLİSİM\react native\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\BİLİSİM\react native\obj\Debug\net6.0\scopedcss\bundle\react native.styles.css
+D:\BİLİSİM\react native\obj\Debug\net6.0\scopedcss\projectbundle\react native.bundle.scp.css
+D:\BİLİSİM\react native\obj\Debug\net6.0\react native.dll
+D:\BİLİSİM\react native\obj\Debug\net6.0\refint\react native.dll
+D:\BİLİSİM\react native\obj\Debug\net6.0\react native.pdb
+D:\BİLİSİM\react native\obj\Debug\net6.0\react native.genruntimeconfig.cache
+D:\BİLİSİM\react native\obj\Debug\net6.0\ref\react native.dll
+C:\Users\WEB01\Desktop\cinar-.net-main\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\WEB01\Desktop\cinar-.net-main\bin\Debug\net6.0\appsettings.json
+C:\Users\WEB01\Desktop\cinar-.net-main\bin\Debug\net6.0\react native.staticwebassets.runtime.json
+C:\Users\WEB01\Desktop\cinar-.net-main\bin\Debug\net6.0\react native.exe
+C:\Users\WEB01\Desktop\cinar-.net-main\bin\Debug\net6.0\react native.deps.json
+C:\Users\WEB01\Desktop\cinar-.net-main\bin\Debug\net6.0\react native.runtimeconfig.json
+C:\Users\WEB01\Desktop\cinar-.net-main\bin\Debug\net6.0\react native.dll
+C:\Users\WEB01\Desktop\cinar-.net-main\bin\Debug\net6.0\react native.pdb
+C:\Users\WEB01\Desktop\cinar-.net-main\obj\Debug\net6.0\react native.csproj.AssemblyReference.cache
+C:\Users\WEB01\Desktop\cinar-.net-main\obj\Debug\net6.0\react native.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WEB01\Desktop\cinar-.net-main\obj\Debug\net6.0\react native.AssemblyInfoInputs.cache
+C:\Users\WEB01\Desktop\cinar-.net-main\obj\Debug\net6.0\react native.AssemblyInfo.cs
+C:\Users\WEB01\Desktop\cinar-.net-main\obj\Debug\net6.0\react native.csproj.CoreCompileInputs.cache
+C:\Users\WEB01\Desktop\cinar-.net-main\obj\Debug\net6.0\react native.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\WEB01\Desktop\cinar-.net-main\obj\Debug\net6.0\react native.RazorAssemblyInfo.cache
+C:\Users\WEB01\Desktop\cinar-.net-main\obj\Debug\net6.0\react native.RazorAssemblyInfo.cs
+C:\Users\WEB01\Desktop\cinar-.net-main\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\WEB01\Desktop\cinar-.net-main\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\WEB01\Desktop\cinar-.net-main\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\WEB01\Desktop\cinar-.net-main\obj\Debug\net6.0\scopedcss\bundle\react native.styles.css
+C:\Users\WEB01\Desktop\cinar-.net-main\obj\Debug\net6.0\scopedcss\projectbundle\react native.bundle.scp.css
+C:\Users\WEB01\Desktop\cinar-.net-main\obj\Debug\net6.0\react native.dll
+C:\Users\WEB01\Desktop\cinar-.net-main\obj\Debug\net6.0\refint\react native.dll
+C:\Users\WEB01\Desktop\cinar-.net-main\obj\Debug\net6.0\react native.pdb
+C:\Users\WEB01\Desktop\cinar-.net-main\obj\Debug\net6.0\react native.genruntimeconfig.cache
+C:\Users\WEB01\Desktop\cinar-.net-main\obj\Debug\net6.0\ref\react native.dll
+D:\ATP\cinar-.net-main\bin\Debug\net6.0\appsettings.Development.json
+D:\ATP\cinar-.net-main\bin\Debug\net6.0\appsettings.json
+D:\ATP\cinar-.net-main\bin\Debug\net6.0\react native.staticwebassets.runtime.json
+D:\ATP\cinar-.net-main\bin\Debug\net6.0\react native.exe
+D:\ATP\cinar-.net-main\bin\Debug\net6.0\react native.deps.json
+D:\ATP\cinar-.net-main\bin\Debug\net6.0\react native.runtimeconfig.json
+D:\ATP\cinar-.net-main\bin\Debug\net6.0\react native.dll
+D:\ATP\cinar-.net-main\bin\Debug\net6.0\react native.pdb
+D:\ATP\cinar-.net-main\obj\Debug\net6.0\react native.csproj.AssemblyReference.cache
+D:\ATP\cinar-.net-main\obj\Debug\net6.0\react native.GeneratedMSBuildEditorConfig.editorconfig
+D:\ATP\cinar-.net-main\obj\Debug\net6.0\react native.AssemblyInfoInputs.cache
+D:\ATP\cinar-.net-main\obj\Debug\net6.0\react native.AssemblyInfo.cs
+D:\ATP\cinar-.net-main\obj\Debug\net6.0\react native.csproj.CoreCompileInputs.cache
+D:\ATP\cinar-.net-main\obj\Debug\net6.0\react native.MvcApplicationPartsAssemblyInfo.cache
+D:\ATP\cinar-.net-main\obj\Debug\net6.0\react native.RazorAssemblyInfo.cache
+D:\ATP\cinar-.net-main\obj\Debug\net6.0\react native.RazorAssemblyInfo.cs
+D:\ATP\cinar-.net-main\obj\Debug\net6.0\staticwebassets.build.json
+D:\ATP\cinar-.net-main\obj\Debug\net6.0\staticwebassets.development.json
+D:\ATP\cinar-.net-main\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ATP\cinar-.net-main\obj\Debug\net6.0\scopedcss\bundle\react native.styles.css
+D:\ATP\cinar-.net-main\obj\Debug\net6.0\scopedcss\projectbundle\react native.bundle.scp.css
+D:\ATP\cinar-.net-main\obj\Debug\net6.0\react native.dll
+D:\ATP\cinar-.net-main\obj\Debug\net6.0\refint\react native.dll
+D:\ATP\cinar-.net-main\obj\Debug\net6.0\react native.pdb
+D:\ATP\cinar-.net-main\obj\Debug\net6.0\react native.genruntimeconfig.cache
+D:\ATP\cinar-.net-main\obj\Debug\net6.0\ref\react native.dll

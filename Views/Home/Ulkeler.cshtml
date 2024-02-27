@@ -1,0 +1,11 @@
+﻿@{
+    ViewData["Title"] = "Privacy Policy";
+}
+<h1>@ViewData["Title"]</h1>
+<ol>
+@foreach (var item in ViewBag.countries)
+{
+     <li><a href="#">@item</a></li>
+}
+</ol>
+<p>ülkeler</p>
